@@ -1,6 +1,6 @@
 # CarND-Controls-MPC
 
-My solution for the [Project #10](https://github.com/udacity/CarND-PID-Control-Project.git)
+My solution for the [Project #10](https://github.com/udacity/CarND-MPC-Project)
 
 * [notes.md](./notes.md)
 
